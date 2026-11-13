@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Solid Lamp</string>
+    <string name="hello_world">Welcome to Solid Lamp</string>
+    <string name="launch">Open app</string>
+</resources>
